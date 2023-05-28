@@ -1,0 +1,14 @@
+[
+    {
+        "url": "https://www.sometest.com/embeddingtest_disregard",
+        "input_text": "What is sometest website?"
+    },
+    {
+        "url": "https://www.ownOTBKnowledgeLink.life",
+        "input_text": "Where is otb website?"
+    },
+    {
+        "url": "https://www.peterpan.life",
+        "input_text": "Where is peter's website?"
+    }
+]

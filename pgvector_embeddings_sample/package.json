@@ -1,0 +1,15 @@
+{
+  "name": "vectordb_test",
+  "version": "1.0.0",
+  "description": "Learning how to add custom knowledge as per this article - https://blog.theodo.com/2023/05/gpt-with-custom-knowledge/",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "openai": "^3.2.1",
+    "pg": "^8.11.0"
+  }
+}

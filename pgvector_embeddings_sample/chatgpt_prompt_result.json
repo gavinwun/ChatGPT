@@ -1,0 +1,1 @@
+{"id":"chatcmpl-7KzRAoiNCvQYKSdBAcG5q4exK22aI","object":"chat.completion","created":1685237080,"model":"gpt-3.5-turbo-0301","usage":{"prompt_tokens":220,"completion_tokens":16,"total_tokens":236},"choices":[{"message":{"role":"assistant","content":"OTB's website is https://www.ownOTBKnowledgeLink.life."},"finish_reason":"stop","index":0}]}
