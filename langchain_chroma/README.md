@@ -1,0 +1,1 @@
+Just learning how to setup and use langchain, and then use it with Chroma as the vector db.
