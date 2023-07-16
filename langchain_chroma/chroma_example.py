@@ -11,7 +11,7 @@ import pathlib
 import subprocess
 import tempfile
 
-openai_api_key = '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'
+openai_api_key = '...'
 
 def get_github_docs(repo_owner, repo_name):
     with tempfile.TemporaryDirectory() as d:
