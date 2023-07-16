@@ -1,0 +1,1 @@
+Download the model ggml-gpt4all-j-v1.3-groovy.bin from https://gpt4all.io/index.html and put it into this folder
